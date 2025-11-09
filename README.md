@@ -15,5 +15,7 @@ It includes product listing, add-to-cart functionality, quantity control, toast 
 
 ---
 
+Live Link: https://zesty-halva-ce28d6.netlify.app/
+
 
 
